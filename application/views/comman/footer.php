@@ -1,4 +1,3 @@
-
     <!-- Footer -->
     <footer>
         <!-- Footer Top -->           
@@ -60,7 +59,7 @@
                 </h2>
                         <ul class="cont_info">
                             <li><i class="fa fa-map-marker"></i>
-                                <p>Bhopal </p>
+                                <p>Orissa </p>
                             </li>
                             <li><i class="fa fa-phone"></i>
                                 <p> <a href="tel:407-546-2034"> Phone:  </a> </p>
@@ -68,7 +67,7 @@
                             <li><i class="fa fa-envelope"></i>
                                 <p> <a href="mailto:connect@crelegant.com?Subject=
 
-ToletRoom%20enquiry"> Email: connect@crelegant.com </a> </p>
+ToletRoom%20enquiry"> Email: toletroom2016@gmail.com </a> </p>
                             </li>
                         </ul>
 

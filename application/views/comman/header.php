@@ -84,7 +84,7 @@
                     
                     <div class="sig_in">
                         <p><i class="fa fa-user"></i>
-                            <a href="#login_box" class="log_btn" data-toggle="modal"> Sign in </a> or <a class="reg_btn" href="#reg_box" data-toggle="modal">create account </a> </p>
+                            <a href="#login_box" class="log_btn" data-toggle="modal"> Sign in </a> or <a class="reg_btn" href="#reg_box" data-toggle="modal">Create account </a> </p>
                     </div>
 
                 </div>
