@@ -170,215 +170,26 @@
     <!-- Featured Properties Section -->
     <section id="feat_propty">
         <div class="container">
-            <div class="row">
-                <div class="titl_sec">
-                    <div class="col-xs-6">
-
-                        <h3 class="main_titl text-left">
-                    Featured Properties
-                </h3>
-
+            <!-- <div class="row"> -->
+              <div class="intro-box">
+              <center>
+                <article class="" data-wow-duration="700ms" data-wow-delay="400ms" style="visibility: visible; -webkit-animation-duration: 700ms; -webkit-animation-delay: 400ms;">
+                        <h1>Buy, Sell and Rent Properties!</h1>
+                        <br><br>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut e </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor</p>
+                    <div class="action-button">
+                        <a href="" title="List your property" class="button primary large">
+                        <i class="icon-building"></i>List your property</a>
                     </div>
-                    <div class="col-xs-6">
-
-                        <h3 class="link_titl text-right">
-                    <a href="property_listing.php"> View Properties </a>
-                </h3>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-                <!-- Property 1 -->
-                <div class="col-md-4">
-                    <div class="panel panel-default">
-                        <div class="panel-image">
-                            <img class="img-responsive img-hover" src="http://placehold.it/370x240" alt="">
-                            <div class="img_hov_eff">
-                                <a class="btn btn-default btn_trans" href="property_details.php"> More Details </a>
-                            </div>
-
-                        </div>
-                        <div class="sal_labl">
-                            For Sale
-                        </div>
-
-                        <div class="panel-body">
-                            <div class="prop_feat">
-                                <p class="area"><i class="fa fa-home"></i> 3000 Sq Ft</p>
-                                <p class="bedrom"><i class="fa fa-bed"></i> 3 Bedrooms</p>
-                                <p class="bedrom"><i class="fa fa-car"></i> 1 Garage</p>
-                            </div>
-                            <h3 class="sec_titl">
-                         Lorem ipsum dolor                  </h3>
-
-                            <p class="sec_desc">
-                                Heirloom art party iPhone kogi American Apparel stumptown try-hard tousled organic...
-                            </p>
-                            <div class="panel_bottom">
-                                <div class="col-md-6">
-                                    <p class="price text-left"> ₹250,100</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <p class="readmore text-right"> <a href="property_details.php"> Read More </a> </p>
-
-                                </div>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="share_btn">
-                        <i class="fa fa-share-alt"></i>
-                            <div class="soc_btn">
-                                <ul>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-facebook"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-twitter"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-google-plus"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-linkedin"></i> </a>
-                                    </li>
-
-                                </ul>
-                            </div>
-                    </div>
-
-
-                </div>
-                <!-- Property 2 -->
-                <div class="col-md-4">
-                    <div class="panel panel-default">
-                        <div class="panel-image">
-                            <img class="img-responsive img-hover" src="http://placehold.it/370x240" alt="">
-                            <div class="img_hov_eff">
-                                <a class="btn btn-default btn_trans" href="property_details.php"> More Details </a>
-                            </div>
-
-                        </div>
-                        <div class="sal_labl">
-                            For Rent
-                        </div>
-
-                        <div class="panel-body">
-                            <div class="prop_feat">
-                                <p class="area"><i class="fa fa-home"></i> 3000 Sq Ft</p>
-                                <p class="bedrom"><i class="fa fa-bed"></i> 3 Bedrooms</p>
-                                <p class="bedrom"><i class="fa fa-car"></i> 1 Garage</p>
-                            </div>
-                            <h3 class="sec_titl">
-                         Lorem ipsum dolor                  </h3>
-
-                            <p class="sec_desc">
-                                Heirloom art party iPhone kogi American Apparel stumptown try-hard tousled organic...
-                            </p>
-                            <div class="panel_bottom">
-                                <div class="col-md-6">
-                                    <p class="price text-left"> ₹250,100</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <p class="readmore text-right"> <a href="property_details.php"> Read More </a> </p>
-
-
-                                </div>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="share_btn">
-                        <i class="fa fa-share-alt"></i>
-                            <div class="soc_btn">
-                                <ul>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-facebook"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-twitter"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-google-plus"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-linkedin"></i> </a>
-                                    </li>
-
-                                </ul>
-                            </div>
-                    </div>
-
-
-                </div>
-                <!-- Property 3 -->
-                <div class="col-md-4">
-                    <div class="panel panel-default">
-                        <div class="panel-image">
-                            <img class="img-responsive img-hover" src="http://placehold.it/370x240" alt="">
-                            <div class="img_hov_eff">
-                                <a class="btn btn-default btn_trans" href="property_details.php"> More Details </a>
-                            </div>
-
-                        </div>
-                        <div class="sal_labl">
-                            For Rent
-                        </div>
-
-                        <div class="panel-body">
-                            <div class="prop_feat">
-                                <p class="area"><i class="fa fa-home"></i> 3000 Sq Ft</p>
-                                <p class="bedrom"><i class="fa fa-bed"></i> 3 Bedrooms</p>
-                                <p class="bedrom"><i class="fa fa-car"></i> 1 Garage</p>
-                            </div>
-                            <h3 class="sec_titl">
-                         Lorem ipsum dolor                  </h3>
-
-                            <p class="sec_desc">
-                                Heirloom art party iPhone kogi American Apparel stumptown try-hard tousled organic...
-                            </p>
-                            <div class="panel_bottom">
-                                <div class="col-md-6">
-                                    <p class="price text-left"> ₹250,100</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <p class="readmore text-right"> <a href="property_details.php"> Read More </a> </p>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="share_btn">
-                       <i class="fa fa-share-alt"></i>
-                            <div class="soc_btn">
-                                <ul>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-facebook"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-twitter"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-google-plus"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <i class="fa fa-linkedin"></i> </a>
-                                    </li>
-
-                                </ul>
-                            </div>
-                    </div>
-
-
-                </div>
-
-            </div>
+                </article>
+              </center>
+           <!-- </div> -->
             <!-- /.row -->
         </div>
         <!-- /.container -->
     </section>
-
-<div class="spacer-60"></div>
