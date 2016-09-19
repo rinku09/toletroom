@@ -183,7 +183,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor</p>
                     <div class="action-button">
-                        <a href="" title="List your property" class="button primary large">
+                        <a href="<?= base_url('Home/property')?>" title="List your property" class="button primary large">
                         <i class="icon-building"></i>List your property</a>
                     </div>
                 </article>

@@ -117,13 +117,13 @@
                         <a class="" href="<?= base_url(''); ?>"> Home </a>
                     </li>
                     <li>
-                        <a href="<?= base_url('index.php/Home/property') ?>">Property </a>
+                        <a href="<?= base_url('Home/property') ?>">Property </a>
                     </li>
                     <li>
-                        <a href="<?= base_url('index.php/Home/about') ?>">About Us</a>
+                        <a href="<?= base_url('Home/about') ?>">About Us</a>
                     </li>
                     <li>
-                        <a class="" href="<?= base_url('index.php/Home/contact') ?>">Contact</a>
+                        <a class="" href="<?= base_url('Home/contact') ?>">Contact</a>
                     </li>
 
                 </ul>
